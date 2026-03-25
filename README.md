@@ -31,6 +31,14 @@ This project helps you understand:
 - Includes sample content and output screenshot
 
 ---
+## Output
+
+### Output Video
+https://github.com/user-attachments/assets/f0284a2b-d1ef-4130-89c7-c4750d188d16
+
+### Output Screenshot
+![output](assets/output.png)
+---
 
 ## Project Structure
 
